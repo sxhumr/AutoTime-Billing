@@ -1,0 +1,16 @@
+# Node
+node_modules
+npm-debug.log
+
+# C# / .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,14 @@
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\bin\Debug\net9.0\desktop-agent.exe
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\bin\Debug\net9.0\desktop-agent.deps.json
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\bin\Debug\net9.0\desktop-agent.runtimeconfig.json
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\bin\Debug\net9.0\desktop-agent.dll
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\bin\Debug\net9.0\desktop-agent.pdb
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\obj\Debug\net9.0\desktop-agent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\obj\Debug\net9.0\desktop-agent.AssemblyInfoInputs.cache
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\obj\Debug\net9.0\desktop-agent.AssemblyInfo.cs
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\obj\Debug\net9.0\desktop-agent.csproj.CoreCompileInputs.cache
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\obj\Debug\net9.0\desktop-agent.dll
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\obj\Debug\net9.0\refint\desktop-agent.dll
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\obj\Debug\net9.0\desktop-agent.pdb
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\obj\Debug\net9.0\desktop-agent.genruntimeconfig.cache
+C:\Users\sohum\Desktop\MB Assessment Demo\autotime-workspace\desktop-agent\obj\Debug\net9.0\ref\desktop-agent.dll
